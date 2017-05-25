@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+C:\Work Bench\WorkSpace\POCs-Project\.metadata\.plugins\org.eclipse.jdt.core
+2802353038.index
